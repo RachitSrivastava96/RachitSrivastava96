@@ -4,19 +4,28 @@
 
 ---
 
-I'm a first-year CSE student still figuring things out, but putting in the work.
-Right now I'm focused on building strong fundamentals — C++ and Data Structures
-& Algorithms from scratch, alongside university coursework in engineering
-mathematics. Not at the point of having big projects to show yet, but getting
-there steadily.
+First-year CSE student. I build things, break them, and figure out why.
+Currently focused on getting my fundamentals solid while working on projects
+on the side.
 
 ---
 
-### What I'm currently working on
+### What I'm working with
 
-- 📘 &nbsp;C++ and DSA — structured roadmap, no shortcuts
-- 📐 &nbsp;Engineering Mathematics — Fourier analysis
-- 🌐 &nbsp;Building my digital presence and learning how the tech world actually works
+- 💻 &nbsp;**Languages** — C++, Python, JavaScript
+- ⚙️ &nbsp;**Frameworks** — Django, React, Express
+- 📘 &nbsp;**Currently grinding** — Data Structures & Algorithms
+
+---
+
+### Projects
+
+| Project | What it does |
+|---|---|
+| [VTOPClone](https://github.com/RachitSrivastava96/VTOPClone) | Clone of my college's official student portal, built with Django |
+| [Virasat Setu](https://github.com/RachitSrivastava96/virasat-setu) | Online platform to promote local culture and artwork — think digital tour guide |
+| [SecureVault](https://github.com/RachitSrivastava96/SecureVault) | Secure file upload system with multiple security checks and encryption layers before anything gets stored |
+| [Gesture-Flow](https://github.com/RachitSrivastava96/Gesture-Flow) | Control your PC with hand gestures — built with Python and MediaPipe |
 
 ---
 
