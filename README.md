@@ -4,7 +4,7 @@
 
 ---
 
-First-year CSE student. I build things, break them, and figure out why.
+A Bachelor of Technology(Computer Science and Engineering) Student. I build things, break them, and figure out why.
 Currently focused on getting my fundamentals solid while working on projects
 on the side.
 
