@@ -70,7 +70,6 @@ the gap between what I can imagine and what I can actually build gets smaller.
 →  Working through DSA systematically — no topics skipped
 →  Getting deeper into C++ and systems fundamentals
 →  Building full-stack projects on the side
-→  First year. Still early. Compounding.
 ```
 
 ---
